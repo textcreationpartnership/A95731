@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good newes from sea, being a true relation of the late sea-fight, betweene Captain William Thomas, captain of the 8th Whelp, now imployed for the service of the King and Parliament, against Captaine Polhill, captaine of the ship call'd the May flower Admirall of Falmouth, with the taking of the said ship. Ordered by the Commons assembled in Parliament, that this relation be printed and published. Hen. Elsynge, Cler. Parl. D. Com.</title>
+            <author>Thomas, William, Captain.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95731</idno>
+            <idno type="STC">Wing T993</idno>
+            <idno type="STC">Thomason E56_1</idno>
+            <idno type="STC">ESTC R16776</idno>
+            <idno type="EEBO-CITATION">99860088</idno>
+            <idno type="PROQUEST">99860088</idno>
+            <idno type="VID">155265</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95731)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155265)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 10:E56[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good newes from sea, being a true relation of the late sea-fight, betweene Captain William Thomas, captain of the 8th Whelp, now imployed for the service of the King and Parliament, against Captaine Polhill, captaine of the ship call'd the May flower Admirall of Falmouth, with the taking of the said ship. Ordered by the Commons assembled in Parliament, that this relation be printed and published. Hen. Elsynge, Cler. Parl. D. Com.</title>
+                  <author>Thomas, William, Captain.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 7 [i.e. 5], [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Lawrence Blaiklock, and are to be sold at his shop next to Temple-barre,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>June 26. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Captain William Thomas.  Cf. Wing.</note>
+                  <note>Page 5 is misnumbered 7.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Thomas, William, --  Captain.</term>
+               <term>Polhill, --  Captain.</term>
+               <term>Mayflower (Ship) --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Naval operations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155265:1"/>
+            <pb facs="tcp:155265:1" rendition="simple:additions"/>
+            <p> 
+               <hi>Good Newes from Sea,</hi> BEING A True Relation OF The late Sea-fight, betweene Captain <hi>William Thomas,</hi> Captain of the 8<hi rend="sup">th</hi> 
+               <hi>Whelp,</hi> now imployed for the ſer<g ref="char:EOLhyphen"/>vice of the King and Parliament, againſt Cap<g ref="char:EOLhyphen"/>taine <hi>Polhill,</hi> Captaine of the ſhip call'd the <hi>May flower</hi> Admirall of <hi>Falmouth,</hi> with the taking of the ſaid ſhip.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>ORdered by the Commons aſſembled in Parliament, That this Relation be printed and publiſhed.</hi>
+                  </p>
+                  <p>Hen. Elſynge, Cler. Parl. D. Com.</p>
+               </body>
+            </floatingText>
+            <p>LONDON, Printed for <hi>Lawrence Blaiklock,</hi> and are to be ſold at his ſhop next to <hi>Temple-barre, June</hi> 26. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:155265:2"/>
+            <pb n="1" facs="tcp:155265:2"/>
+            <head>THE RELATION Of Captain <hi>WILLIAM THOMAS,</hi> Captain of the eighth <hi>Whelp.</hi>
+            </head>
+            <p>Touching his fight with Captain <hi>Polhill,</hi> Admirall of <hi>Falmouth,</hi> neer unto <hi>Breſt,</hi> on the Coaſt of <hi>Brittain</hi> on the fourth of <hi>June.</hi> 1643.</p>
+            <p>
+               <seg rend="decorInit">B</seg>Eing commanded by your Lord<g ref="char:EOLhyphen"/>ſhip, the tenth of <hi>May</hi> laſt, to convoy certain Veſſels from <hi>Hampton, Torbay</hi> and <hi>Lynne,</hi> to <hi>Morleaux;</hi> I arrived at the Iſle of <hi>Baſſe,</hi> the third of <hi>June,</hi> and ſtaying there about twenty four hours, to get ſome Intelligence from the <hi>Engliſh</hi> Merchants at <hi>Morleaux,</hi> they ſent me word, that
+<pb n="2" facs="tcp:155265:3"/> Captain <hi>Polhill,</hi> Captain <hi>Jones,</hi> and a prize Ship that they had lately taken belonging to <hi>Yarmouth,</hi> which they had man'd and fitted with ten pieces of Ordnance, were about that Coaſt neer <hi>Breſt;</hi> and withall the ſaid Merchants ſent me three Maſters of Ships, who had been taken by them, pillaged of all their Goods, and impriſoned till they gained an opportunity to ſlip away; upon ſome conference with theſe Maſters, I found there was no more ſtrength of <hi>Engliſh</hi> Shipping in thoſe Parts, but theſe three men of Warre; and they told me their accu<g ref="char:EOLhyphen"/>ſtomed manner was to ſet out their Scouts in ſeverall places, to give them notice when they ſhould diſ<g ref="char:EOLhyphen"/>cry any <hi>Engliſh</hi> Colours coming in the <hi>Trade,</hi> which they could do ſix or ſeven Leagues off, preſently to Ship their Cables, go out, and by craft, and deceit, ſeize on them.</p>
+            <p>I ſet ſail from the Iſle of <hi>Baſſe</hi> to the <hi>Trade,</hi> and when I came there, I took down my Foretop-Gal<g ref="char:EOLhyphen"/>lant-Maſt, and put <hi>Engliſh</hi> Vanes, in all my top Maſts Heads, and took in all other Colours, with a reſolution to meet with him, and ſurprize him, with the <hi>Charitie,</hi> a ſmall Friggate with me, whereof <hi>Daux</hi> was Commander, having onely ſix ſmall Peeces; and on Sunday the fourth of <hi>June,</hi> went in like a Merchant man, having covered my painting with old Canvas, took in all my Ordnance, kept cloſe my men. He had his Spies there, which di<g ref="char:EOLhyphen"/>ſcerned my coming in, Commander <hi>Daux</hi> coming three hours after me, with a Flag in the main Top: On Munday morning, they ſent their Boat full of
+<pb n="3" facs="tcp:155265:3"/> men, with Muskets, Pikes, &amp;c. to take us, but paſſed by me, with an intent to Board the Friggat, and viewed us narrowly, and returned, Boarding neither of us; I being more deſirous of the Ship then the Boat, let them paſſe, and never ſhot at them; Afterwards <hi>Polhills</hi> Lievtenant came in a ſmall French Boat, and in French habite, and came a Boord the <hi>Charitie</hi> Friggat, demanding whence ſhe was, he anſwered, (as we had concluded before) his Ship was of <hi>London,</hi> and mine of <hi>Bristoll,</hi> both come from <hi>Bilboe,</hi> laden with Wool and Iron, and being purſued by Turks men of Warre, were fled thither for ſhelter, and deſired to know what <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> Merchants were there on ſhore, that were bound for <hi>London,</hi> enquiring of him further, what <hi>Engliſh</hi> Ships were there of ſtrength, that might accom<g ref="char:EOLhyphen"/>pany us to <hi>London,</hi> for we were afraid.</p>
+            <p>The Lievtenant preſently repaired aſhore, and acquainted <hi>Polhill,</hi> who made great haſte to come out with his Ship, having in her two and twenty Pieces of Ordnance, and ſix Murderers, and appears to us about eleven or twelve of the clock, with an intent to have boorded us; But we were provided, with our Sails furr'd with Rope-Yarns, and the Ax at the Bitts, ready to cut the Cable, and to receive them aſſoon as they came neer us; and preſently I cut the Cable in the Hauſe; and in two or three Boords got to winde-ward of him; and when I was drawn neer unto him, out went all my Guns, my Colours, and my Waſt<g ref="char:EOLhyphen"/>clothes, and ſhot at him, and followed him till
+<pb n="4" facs="tcp:155265:4"/> they run the Ship on ground; and I Anchored within leſſe then a Musket ſhot of him when he was aground, with my broad ſide to his, and then I diſ<g ref="char:EOLhyphen"/>charged within one hour and a half, an hundred and twenty Pieces of Ordnance upon him, and he ply<g ref="char:EOLhyphen"/>ed his Ordnance all that time very hot at me: I finding ſome of his Shot very dangerous, was for<g ref="char:EOLhyphen"/>ced again to cut my Cable in the Hauſe, hoping to do better execution under Sail; and ſtanding off one boord, I made in again to him, and gave him a broad ſide, which took place every Piece; which did ſo daunt and diſcourage him, that within one broad ſide or two after, we perceived the men to forſake the Ship. <hi>Polhill</hi> and the Maſter eſcaped out at the Gun-room Port on ſhore, half an hour before the Fight was ended. Then they ſtrook down their Flag, and held out a white Cloth; but we being doubtfull of their treachery, and having but ſmall Boats, I could not ſend men enough on boord; but I man'd the Fregat with my men, and commanded him to run as neer as he could, and to burn and deſtroy her, if otherwiſe they could not preſerve her: But God be thanked, though ſhe was mightily torn (with great difficulty, and much pains taking) we ſtopt her leaks, and preſerved her, and have ſafely arrived with her at <hi>Stokes</hi> Bay.</p>
+            <p>During the continuance of this Fight, I diſchar<g ref="char:EOLhyphen"/>ged an hundred fifty nine Pieces of Ordnance, and came off with the loſſe of one man, my ſelf and another a little hurt. And two of his were ſlain out-right, if not more, and aboue twenty hurt.</p>
+            <pb n="7" facs="tcp:155265:4"/>
+            <p> There came from <hi>Polhils</hi> and <hi>Jones</hi> his Ship neer fourty of their men, and deſired that I would en<g ref="char:EOLhyphen"/>tertain them, which I did, wanting men to mannage my own Ship and the Prize, who are likewiſe all ſafely arrived with me; for which I heartily ac<g ref="char:EOLhyphen"/>knowledge the goodneſſe and mercy of God.</p>
+            <p>This is the truth of our proceedings, which I hum<g ref="char:EOLhyphen"/>bly ſubmit to your Lordſhip.</p>
+            <closer>
+               <dateline>
+                  <hi>From aboard the eighth Whelp,</hi>
+                  <date> 
+                     <hi>the</hi> 20 <hi>of June,</hi> 1643.</date>
+               </dateline>
+               <signed>William Thomas.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
